@@ -1,4 +1,4 @@
-\# Awesome-Python-Learning [![Awesome]
+\# Awesome-Python-Learning 
 
 Python Learning Library
 
@@ -8,7 +8,7 @@ Python Learning Library
 
 [TOC]
 
-
+------
 
 ## **Jobs**
 
