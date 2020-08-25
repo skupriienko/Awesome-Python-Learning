@@ -2,11 +2,9 @@
 
 Python Learning Library
 
-
-
 ## **Contents**
 
-[toc]
+{toc}
 
 ------
 
@@ -15,7 +13,7 @@ Python Learning Library
 - [[15 App Ideas to Build and Level Up your Coding Skills]](https://blog.bitsrc.io/15-app-ideas-to-build-and-level-up-your-coding-skills-28612c72a3b1)
 - [[15 вопросов по Python: как джуниору пройти собеседование]](https://proglib.io/p/python-interview/)
 - [[15 задач на собеседовании для программиста]](https://proglib.io/p/15-questions-for-programmers/)
-- [[16-річний програміст із Черкащини --- про те, як 11-класником влаштувався на роботу зі зарплатнею майже \$1000 \| DOU]](https://dou.ua/lenta/interviews/first-job-in-sixteen/?from=comment-digest_bc&utm_source=transactional&utm_medium=email&utm_campaign=digest-comments#1829186)
+- [[16-річний програміст із Черкащини --- про те, як 11-класником влаштувався на роботу зі зарплатнею майже \$1000 \| DOU]](https://dou.ua/lenta/interviews/first-job-in-sixteen/?from=comment-digest_bc&utm_source=transactional&utm_medium=email&utm_campaign=digest-comments#1829186)
 
 - [[5 советов по созданию вашего резюме]](https://proglib.io/p/best-format-on-cv/)
 
@@ -43,7 +41,7 @@ Python Learning Library
 
 - [[Вастрик.Инсайд \#46: Краткий гайд о том, как нанимать нормальных людей]](https://vas3k.ru/inside/46/)
 
-- [[Де, як і скільки: аналізуємо найм джуніорів у 2019 році \| DOU]](https://dou.ua/lenta/articles/juniors-2019/?from=nl&utm_source=20200428&utm_medium=email&utm_campaign=CM)
+- [[Де, як і скільки: аналізуємо найм джуніорів у 2019 році \| DOU]](https://dou.ua/lenta/articles/juniors-2019/?from=nl&utm_source=20200428&utm_medium=email&utm_campaign=CM)
 
 - [[Как должно выглядеть резюме ИТ-специалиста: типичные ошибки глазами HR]](https://proglib.io/p/it-cv/)
 
@@ -57,7 +55,7 @@ Python Learning Library
 
 - [[My Data Science & Machine Learning, Beginner's Learning Path \| LinkedIn]](https://www.linkedin.com/pulse/my-data-science-machine-learning-beginners-path-vin-vashishta/?trackingId=J16vYmqLQEZ5wr4oElpnNA%3D%3D)
 
-- [[AI & ML дайджест \#17: курсы по ML & DL, обзор популярных GAN архитектур, AI бот для ребенка \| DOU]](https://dou.ua/lenta/digests/ai-ml-digest-17/?from=nl&utm_source=20200414&utm_medium=email&utm_campaign=CM)
+- [[AI & ML дайджест \#17: курсы по ML & DL, обзор популярных GAN архитектур, AI бот для ребенка \| DOU]](https://dou.ua/lenta/digests/ai-ml-digest-17/?from=nl&utm_source=20200414&utm_medium=email&utm_campaign=CM)
 
 - [[Data Science Career Guide -- Dataquest]](https://www.dataquest.io/blog/data-science-career-guide/?utm_source=Iterable&utm_medium=email&utm_campaign=onboarding_7)
 
@@ -99,7 +97,7 @@ Python Learning Library
 
 - [[Детальный план самообразования в Computer Science за 1.5 года]](https://proglib.io/p/cs-learning/)
 
-- [[Мапа розвитку в Data Science, або Як стати дослідником даних \| DOU]](https://dou.ua/lenta/articles/how-i-became-data-analyst/?from=comment-digest_post&utm_source=transactional&utm_medium=email&utm_campaign=digest-comments)
+- [[Мапа розвитку в Data Science, або Як стати дослідником даних \| DOU]](https://dou.ua/lenta/articles/how-i-became-data-analyst/?from=comment-digest_post&utm_source=transactional&utm_medium=email&utm_campaign=digest-comments)
 
 - [[Программирование на Python: от новичка до профессионала]](https://proglib.io/p/python-from-newbie-to-professional/)
 
@@ -573,7 +571,7 @@ Python Learning Library
 
 - [[python: Online Courses, Training and Tutorials on LinkedIn Learning]](https://www.linkedin.com/learning/search?entityType=LEARNING_PATH&keywords=python)
 
-- [[Quickstart for Cloud SQL for PostgreSQL  \|  Google Cloud]](https://cloud.google.com/sql/docs/postgres/quickstart)
+- [[Quickstart for Cloud SQL for PostgreSQL  \|  Google Cloud]](https://cloud.google.com/sql/docs/postgres/quickstart)
 
 - [[R Language Playground \| Katacoda]](https://www.katacoda.com/courses/rlang/playground)
 
@@ -719,7 +717,7 @@ Python Learning Library
 
 - [[Ключевые аспекты разработки на Python - Курсы по программированию]](https://ru.hexlet.io/courses/python-development-course)
 
-- [[Корисні ресурси для програміста (оновив 11 травня 2020) \| DOU]](https://dou.ua/forums/topic/26544/)
+- [[Корисні ресурси для програміста (оновив 11 травня 2020) \| DOU]](https://dou.ua/forums/topic/26544/)
 
 - [[Курсы по программированию]](https://ru.hexlet.io/courses?pricing_type_eq=free)
 
@@ -801,7 +799,7 @@ Python Learning Library
 
 - [[Язык программирования JavaScript]](https://learn.javascript.ru/js)
 
-- [[🤖 Интерактивные эксперименты с машинным обучением на TensorFlow \| DOU]](https://dou.ua/forums/topic/30478/?from=comment-digest_topic&utm_source=transactional&utm_medium=email&utm_campaign=digest-comments)
+- [[🤖 Интерактивные эксперименты с машинным обучением на TensorFlow \| DOU]](https://dou.ua/forums/topic/30478/?from=comment-digest_topic&utm_source=transactional&utm_medium=email&utm_campaign=digest-comments)
 
 #### **Video**
 
@@ -876,7 +874,7 @@ Python Learning Library
 
 - [[Front-end Developer Handbook 2019 - Learn the entire JavaScript, CSS and HTML development practice!]](https://frontendmasters.com/books/front-end-handbook/2019/)
 
-- [[Google\'s Python Class  \|  Python Education  \|  Google Developers]](https://developers.google.com/edu/python)
+- [[Google\'s Python Class  \|  Python Education  \|  Google Developers]](https://developers.google.com/edu/python)
 
 - [[Learn DS & Algorithms \| Programiz]](https://www.programiz.com/dsa)
 
@@ -968,7 +966,7 @@ Python Learning Library
 
 - [[Architectural Styles and the Design of Network-based Software Architectures]](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)
 
-- [[Build your first app  \|  Android Developers]](https://developer.android.com/training/basics/firstapp/index.html)
+- [[Build your first app  \|  Android Developers]](https://developer.android.com/training/basics/firstapp/index.html)
 
 - [[Building Blocks for Theoretical Computer Science]](http://mfleck.cs.illinois.edu/building-blocks/index.html)
 
@@ -1118,7 +1116,7 @@ Python Learning Library
 
 - [[Solve Easy Unpack - Py.CheckiO]](https://py.checkio.org/mission/easy-unpack/solve/)
 
-- [[Web  \|  Google Developers]](https://developers.google.com/web)
+- [[Web  \|  Google Developers]](https://developers.google.com/web)
 
 - [[Why every Data Scientist should use Dask? - Towards Data Science]](https://towardsdatascience.com/why-every-data-scientist-should-use-dask-81b2b850e15b)
 
@@ -1392,7 +1390,7 @@ Python Learning Library
 
 - [[Installation --- pyglet v1.5.0]](https://pyglet.readthedocs.io/en/latest/programming_guide/installation.html)
 
-- [[Integrating Summernote WYSIWYG Editor in Django  \| Django Central]](https://djangocentral.com/integrating-summernote-in-django/)
+- [[Integrating Summernote WYSIWYG Editor in Django  \| Django Central]](https://djangocentral.com/integrating-summernote-in-django/)
 
 - [[interpretml/interpret: Fit interpretable machine learning models. Explain blackbox machine learning.]](https://github.com/interpretml/interpret)
 
@@ -1628,13 +1626,13 @@ Python Learning Library
 
 - [[Глава 1: Создание первого приложения · Django в примерах]](https://pocoz.gitbooks.io/django-v-primerah/content/)
 
-- [[Данные важнее, чем модели. Как выглядят эффективные процессы в Data Science \| DOU]](https://dou.ua/lenta/articles/data-scientists-workflow/)
+- [[Данные важнее, чем модели. Как выглядят эффективные процессы в Data Science \| DOU]](https://dou.ua/lenta/articles/data-scientists-workflow/)
 
 - [[Искусственная нейронная сеть с нуля на Python c библиотекой NumPy]](https://neurohive.io/ru/tutorial/nejronnaja-set-na-numpy/)
 
-- [[Как написать цепляющую вакансию на ДОУ \| DOU]](https://dou.ua/forums/topic/30281/?from=comment-digest_bc&utm_source=transactional&utm_medium=email&utm_campaign=digest-comments#1830892)
+- [[Как написать цепляющую вакансию на ДОУ \| DOU]](https://dou.ua/forums/topic/30281/?from=comment-digest_bc&utm_source=transactional&utm_medium=email&utm_campaign=digest-comments#1830892)
 
-- [[Как оформить профиль на GitHub так, чтобы он работал при поиске работы \| DOU]](https://dou.ua/lenta/articles/github-profile-for-beginners/?from=comment-digest_bc&utm_source=transactional&utm_medium=email&utm_campaign=digest-comments#1846411)
+- [[Как оформить профиль на GitHub так, чтобы он работал при поиске работы \| DOU]](https://dou.ua/lenta/articles/github-profile-for-beginners/?from=comment-digest_bc&utm_source=transactional&utm_medium=email&utm_campaign=digest-comments#1846411)
 
 - [[Как получить 100/100 в Google Page Speed Test Tool? --- SEO компания UAWEB]](https://uaweb.ua/publication/google_page_speed_test_tool.html)
 
@@ -1666,7 +1664,7 @@ Python Learning Library
 
 - [[Описания паттернов проектирования. Паттерны проектирования. Шаблоны проектирования на Design pattern ru]](http://design-pattern.ru/patterns/)
 
-- [[Перші кроки в NLP: розглядаємо Python-бібліотеку TensorFlow та нейронні мережі в реальному завданні \| DOU]](https://dou.ua/lenta/articles/first-steps-in-nlp-tensorflow/?from=comment-digest_post&utm_source=transactional&utm_medium=email&utm_campaign=digest-comments)
+- [[Перші кроки в NLP: розглядаємо Python-бібліотеку TensorFlow та нейронні мережі в реальному завданні \| DOU]](https://dou.ua/lenta/articles/first-steps-in-nlp-tensorflow/?from=comment-digest_post&utm_source=transactional&utm_medium=email&utm_campaign=digest-comments)
 
 - [[Почему CSS Grid лучше, чем фреймворк Bootstrap?]](https://proglib.io/p/css-grid-vs-bootstrap/)
 
@@ -1734,9 +1732,9 @@ Python Learning Library
 
 - [[Django или Ruby on Rails: какой фреймворк выбрать?]](https://tproger.ru/translations/django-or-ruby-on-rails/)
 
-- [[DOU Проектор: Homemade Machine Learning --- репозиторий для изучения ML на Python с Jupyter-демо \| DOU]](https://dou.ua/lenta/articles/dou-projector-homemade-machine-learning/)
+- [[DOU Проектор: Homemade Machine Learning --- репозиторий для изучения ML на Python с Jupyter-демо \| DOU]](https://dou.ua/lenta/articles/dou-projector-homemade-machine-learning/)
 
-- [[DOU Проектор: репозиторий на GitHub --- шпаргалка для изучения Python \| DOU]](https://dou.ua/lenta/articles/dou-projector-playground-for-learning-python/)
+- [[DOU Проектор: репозиторий на GitHub --- шпаргалка для изучения Python \| DOU]](https://dou.ua/lenta/articles/dou-projector-playground-for-learning-python/)
 
 - [[ES6: прокси изнутри --- CSS-LIVE]](https://css-live.ru/articles/es6-proksi-iznutri.html)
 
@@ -1902,7 +1900,7 @@ Python Learning Library
 
 - [[Работа с документацией в Python: поиск информации и соглашения]](https://proglib.io/p/python-docs/)
 
-- [[Разбираемся в алгоритмах и структурах данных. Доступно и понятно \| DOU]](https://dou.ua/lenta/articles/what-you-should-know-about-algorithms/)
+- [[Разбираемся в алгоритмах и структурах данных. Доступно и понятно \| DOU]](https://dou.ua/lenta/articles/what-you-should-know-about-algorithms/)
 
 - [[Руководство по Java 9: компиляция и запуск проекта]](https://tproger.ru/translations/java-9-guide-compile-run/)
 
