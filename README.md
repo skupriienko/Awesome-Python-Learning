@@ -1,4 +1,4 @@
-\# Awesome-Python-Learning v.1.0.1
+# Awesome-Python-Learning v.1.0.1
 
 Python Learning Library
 
@@ -6,7 +6,7 @@ Python Learning Library
 
 ## **Contents**
 
-{:toc}
+[toc]
 
 ------
 
