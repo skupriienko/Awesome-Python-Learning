@@ -4,7 +4,22 @@ Python Learning Library
 
 ## **Contents**
 
-{toc}
+	Jobs
+	Programming (learning)
+		Roadmaps
+		MOOC and courses
+			Video
+		Textbooks
+		Books
+		Games for Education
+		Online education (others)
+		IT-events
+		Training
+		Project examples for Junior
+		Puzzles
+		Developer's Tools
+		Articles about Software Engineering
+
 
 ------
 
