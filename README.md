@@ -6,7 +6,7 @@ Python Learning Library
 
 ## **Contents**
 
-[TOC]
+{:toc}
 
 ------
 
