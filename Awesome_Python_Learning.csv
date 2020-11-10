@@ -124,7 +124,6 @@ An Intro to Git and GitHub for Beginners (Tutorial);https://product.hubspot.com/
 An Introduction to Interactive Programming in Python (Part 1) - Rice University | Coursera;https://www.coursera.org/learn/interactive-python-1/home/info;MOOC and courses
 An Introduction to TF-IDF. Let’s make this article interactive and… | by Nikhil Jain | Sep, 2020 | Medium;https://medium.com/@nikhiljain.gaya/an-introduction-to-tf-idf-bbaa2580a4a9;Articles about Software Engineering
 Analysis and Visualization of Unstructured Text | Towards Data Science;https://towardsdatascience.com/analysis-and-visualization-of-unstructured-text-data-2de07d9adc84;Articles about Software Engineering
-Announcement: Django Views - The Right Way - lukeplant.me.uk;https://lukeplant.me.uk/blog/posts/announcement-django-views-the-right-way/;Django
 anonymous technical interview practice | interviewing.io;https://interviewing.io/;Jobs
 Answers to dozens of data science job interview questions - Data Science Central;https://www.datasciencecentral.com/profiles/blogs/answers-to-dozens-of-data-science-job-interview-questions;Jobs
 AP®︎ Computer Science Principles (AP®︎ CSP) | Khan Academy;https://www.khanacademy.org/computing/ap-computer-science-principles;MOOC and courses
@@ -1441,3 +1440,82 @@ Zsailer/pandas_flavor: The easy way to write your own flavor of Pandas;https://g
 Що має знати Senior Python Back-end Developer. Аналіз вакансій в Україні та Каліфорнії | DOU;https://dou.ua/lenta/articles/knowledge-for-senior-python/?utm_source=dlvr.it&utm_medium=linkedin;Jobs
 Язык программирования JavaScript;https://learn.javascript.ru/js;MOOC and courses
 Як налаштувати локальний тестовий сервер? - Вчимо веб-розробку | MDN;https://developer.mozilla.org/uk/docs/Learn/Common_questions/set_up_a_local_testing_server;Articles about Software Engineering
+ImageColorizerColab.ipynb - Colaboratory;https://colab.research.google.com/github/jantic/DeOldify/blob/master/ImageColorizerColab.ipynb#scrollTo=6kbwFqotFaKU;Code
+Switch A Django Project To Use Pytest - Building SaaS #57 · Matt Layman;https://www.mattlayman.com/building-saas/switch-django-app-to-use-pytest/;Django
+SEO For Django: 5 Methods To Improve SEO - DEV;https://dev.to/druidmaciek/seo-for-django-5-methods-to-improve-seo-625;Django
+Double-checked locking with Django ORM - lukeplant.me.uk;https://lukeplant.me.uk/blog/posts/double-checked-locking-with-django-orm/;Django
+Price Tracker Application with Django: Crawling Discounts From Ebay | Hacker Noon;https://hackernoon.com/price-tracker-application-with-django-or-track-discounts-rw1c32jf?source=rss;Django
+python-catalin: Python 3.7.5 : Use Django Formsets.;https://python-catalin.blogspot.com/2020/01/python-375-use-django-formsets.html?m=1;Django
+Types of API Authentication In Django REST Framework | Codementor;https://www.codementor.io/@maxongzb/types-of-api-authentication-in-django-rest-framework-15em6a1r1d;Django
+python-catalin: Python 3.7.5 : Django security issues - part 001.;https://python-catalin.blogspot.com/2020/01/python-375-django-security-issues-part.html?m=1;Django
+python-catalin: Python 3.7.5 : About Django REST framework.;https://python-catalin.blogspot.com/2019/12/python-375-about-django-rest-framework.html?m=1);Django
+https://hackernoon.com/six-django-template-tags-not-often-used-in-tutorials-bk3nv3tfh?source=rss;;Django
+[Sending post request with different body formats in Django - https://pythoncircle.com;https://pythoncircle.com/post/713/sending-post-request-with-different-body-formats-in-django/;Django
+Creating an app with React and Django - LogRocket Blog;https://blog.logrocket.com/creating-an-app-with-react-and-django/;Django
+python-catalin: Python 3.7.5 : The new Django version 3.0 .;https://python-catalin.blogspot.com/2019/12/python-375-new-django-version-30.html?m=1;Django
+Server Access Logging in Django using middleware - https://pythoncircle.com;https://pythoncircle.com/post/439/server-access-logging-in-django-using-middleware/;Django
+What's New in Django 3.1 - DEV;https://dev.to/learndjango/what-s-new-in-django-3-1-320f;Django
+python-catalin: Python 3.8.2 : Create a Django Calendar - part 001.;https://python-catalin.blogspot.com/2020/06/python-382-create-django-calendar-part.html?m=1;Django
+CoreUI - Admin Dashboard available as Jinja2 theme and Flask, Django web apps - DEV;https://dev.to/sm0ke/coreui-admin-dashboard-available-as-jinja2-theme-and-flask-django-web-apps-3ag6;Django
+How to Provide Test Fixtures for Django Models in Pytest – Real Python;https://realpython.com/django-pytest-fixtures/;Django
+python-catalin: Python 3.7.5 : Django security issues - part 002.;https://python-catalin.blogspot.com/2020/01/python-375-django-security-issues-part_20.html?m=1;Django
+python-catalin: Python 3.7.5 : Set json with settings in Django project.;https://python-catalin.blogspot.com/2020/01/python-375-set-json-with-settings-in.html?m=1;Django
+Create your first REST API in Django Rest Framework | by Adnan Siddiqi | ITNEXT;https://itnext.io/create-your-first-rest-api-in-django-rest-framework-e45fa3318106;Django
+How to Execute Raw SQL Queries on Multiple Databases in Django | by Mishraranjeet | Better Programming | Medium;https://medium.com/better-programming/raw-sql-queries-on-multiple-databases-in-django-a65e7153b5f2;Django
+python-catalin: Python 3.7.5 : Django security issues - part 003.;https://python-catalin.blogspot.com/2020/01/python-375-django-security-issues-part_22.html?m=1;Django
+Django Pixel Lite - Open-Source Django seed project | Codementor;https://www.codementor.io/@chirilovadrian360/django-pixel-lite-open-source-django-seed-project-1amalwibqy;Django
+Building a Stadia Tracker Site Using Django - PyBites;https://pybit.es/my-first-django-app.html;Django
+Counting Queries: Basic Performance Testing in Django - Vinta Blog;https://www.vinta.com.br/blog/2020/counting-queries-basic-performance-testing-in-django/;Django
+Webinar Recording: “Django with PyCharm Tips and Tricks” with Paul Everitt – PyCharm Blog | JetBrains;https://blog.jetbrains.com/pycharm/2020/03/webinar-recording-django-with-pycharm-tips-and-tricks-with-paul-everitt/;Django
+Python Webviews with PyWebView | Techiediaries;https://www.techiediaries.com/python-webviews-with-pywebview/;Django
+The easiest way to deploy Django application | Codementor;https://www.codementor.io/@mstspr1155/the-easiest-way-to-deploy-django-application-11l2fi5vtz;Django
+Django Dashboards - Free Projects to start fast | Codementor;https://www.codementor.io/@chirilovadrian360/django-dashboards-free-projects-to-start-fast-1angeoj47e;Django
+From Concept To Live In Two Weeks With Django · Matt Layman;https://www.mattlayman.com/blog/2020/concept-to-live-with-django/;Django
+Announcement of Technical Board Election Registration | Weblog | Django;https://www.djangoproject.com/weblog/2020/aug/21/technical-board-election-registration/;Django
+Django Dashboard - Black Design | Codementor;https://www.codementor.io/@chirilovadrian360/django-dashboard-black-dashboard-19g4fz4u2j;Django
+How to Create a REST API in Django - DZone Web Dev;https://dzone.com/articles/how-to-create-a-rest-api-in-django-4;Django
+Star Admin - Django Dashboard Example | Codementor;https://www.codementor.io/@chirilovadrian360/star-admin-django-dashboard-example-18qjtwrnyk;Django
+Deploying your Django 3 App - DEV;https://dev.to/render/deploying-your-django-3-app-239a;Django
+Using Environment Variables In Django | Django Central;https://djangocentral.com/environment-variables-in-django/;Django
+Dropping Tutorial Paralysis, Building a Django Blog From Scratch - PyBites;https://pybit.es/creating-django-blog.html;Django
+Webinar: “How To Build Real-Time Interactions In Your Django 3 App” with Calvin Hendryx-Parker – PyCharm Blog | JetBrains;https://blog.jetbrains.com/pycharm/2020/04/webinar-how-to-build-real-time-interactions-in-your-django-3-app-with-calvin-hendryx-parker/;Django
+Hello Word in Django 2: How to start with Django 2 - https://pythoncircle.com;https://pythoncircle.com/post/711/hello-word-in-django-2-how-to-start-with-django-2/;Django
+How to Use Chart.js with Django;https://simpleisbetterthancomplex.com/tutorial/2020/01/19/how-to-use-chart-js-with-django.html;Django
+How to use AJAX with Django - https://pythoncircle.com;https://pythoncircle.com/post/130/how-to-use-ajax-with-django/;Django
+Episode #277 10 tips every Django developer should know - [Talk Python To Me Podcast\];https://talkpython.fm/episodes/show/277/10-tips-every-django-developer-should-know;Django
+Tracking Daily User Data in Django with django-user-visit - Full Stack Python;https://www.fullstackpython.com/blog/track-daily-user-data-django-user-visit.html;Django
+Creating My First Web App with Django | by I Sun | codeburst;https://codeburst.io/creating-my-first-web-app-with-django-7a580f02122c;Django
+Bread and Butter Django - Building SaaS #58 · Matt Layman;https://www.mattlayman.com/building-saas/bread-and-butter-django/;Django
+Breaking Down Celery ≥4.x With Python and Django | by Timothy Mugayi | Better Programming | Medium;https://medium.com/better-programming/breaking-down-celery-4-x-with-python-and-django-e95eeb7de2a6;Django
+How to build a web-based dashboard with Django, MongoDB, and Pivot Table;https://www.freecodecamp.org/news/how-to-build-a-web-based-dashboard-with-django-mongodb-and-pivot-table/;Django
+django-registration 3.0;https://www.b-list.org/weblog/2018/sep/04/three-dot-oh/;Django
+Django Custom Tags in PyCharm Professional 2020.1 – PyCharm Blog | JetBrains;https://blog.jetbrains.com/pycharm/2020/04/django-custom-tags-in-pycharm-professional-2020-1/;Django
+New governance model for the Django project | Weblog | Django;https://www.djangoproject.com/weblog/2020/mar/12/governance/;Django
+Episode 3 - Views On Django · Matt Layman;https://www.mattlayman.com/django-riffs/views-on-django/;Django
+Getting query params from request in Django - https://pythoncircle.com;https://pythoncircle.com/post/710/getting-query-params-from-request-in-django/;Django
+Getting query params from request in Django - https://pythoncircle.com;https://pythoncircle.com/post/710/getting-query-params-from-request-in-django/;Django
+Multiple Image/File Upload with Django 3, Ionic 5 and FormData | Techiediaries;https://www.techiediaries.com/ionic-formdata-multiple-file-upload-tutorial/;Django
+How to upload an Image file in Django - https://pythoncircle.com;https://pythoncircle.com/post/706/how-to-upload-an-image-file-in-django/;Django
+Deploying Django Apps to Heroku from GitHub;https://stackabuse.com/deploying-django-apps-to-heroku-from-github/;Django
+Speeding up Django pagination | ionel's codelog;https://blog.ionelmc.ro/2020/02/02/speeding-up-django-pagination/;Django
+Learn the Django REST Framework in Minutes | by Agustin Castro | Better Programming | Medium;https://medium.com/better-programming/learn-django-rest-framework-in-minutes-ef5159dc60ab;Django
+Using IF ELSE condition in Django template - https://pythoncircle.com;https://pythoncircle.com/post/703/using-if-else-condition-in-django-template/;Django
+How to display flash messages in Django templates - https://pythoncircle.com;https://pythoncircle.com/post/700/how-to-display-flash-messages-in-django-templates/;Django
+Django Dashboards - Simple Web Apps built with tools | Codementor;https://www.codementor.io/@chirilovadrian360/django-admin-dashboards-simple-web-apps-built-with-tools-12qq7pv71q;Django
+Django 3 Tutorial & CRUD Example with MySQL and Bootstrap | Techiediaries;https://www.techiediaries.com/django/django-3-tutorial-and-crud-example-with-mysql-and-bootstrap/;Django
+Python Diary | Creating a transparently encrypted field in Django;http://www.pythondiary.com/blog/Jan.13,2020/creating-transparently-encrypted-field-django.html;Django
+Memcached for Django with Docker | Quick Code;https://medium.com/quick-code/how-to-add-memcached-to-your-django-project-using-docker-67c07b627932;Django
+Pre-Deployment Checklist: Django Web Security | Hacker Noon;https://hackernoon.com/django-web-security-checklist-before-deployment-eco32gq?source=rss;Django
+Function-Based Views vs Class-Based Views in Django | Codementor;https://www.codementor.io/@maxongzb/function-based-views-vs-class-based-views-in-django-11po0y7vsy;Django
+Создаем свое первое веб-приложение при помощи Django;https://tproger.ru/translations/create-your-first-django-app/amp/;Django
+The Web framework for perfectionists with deadlines | Django;https://www.djangoproject.com/;Django
+Що таке Django? · HonKit;https://tutorial.djangogirls.org/uk/django/;Django
+Django — Фреймворк для веб-приложений на Python / Хабр;https://m.habr.com/ru/hub/django/;Django
+Документация Django 3.0 на русском языке | Документация Django 3.0 | Все о фреймворке Джанго и его библиотеках;https://django.fun/docs/django/ru/3.0/;Django
+django CMS - Enterprise Content Management with Django - django CMS;https://www.django-cms.org/en/;Django
+Quickstart - Django REST framework;https://www.django-rest-framework.org/tutorial/quickstart/;Django
+Getting started with Django  | Python  | Google Cloud;https://cloud.google.com/python/django;Django
+Django for Everybody | Coursera;https://www.coursera.org/specializations/django;Django
+Самый полный видеокурс по Django от установки до проекта;https://proglib.io/p/learn-django/amp/;Django
+First steps with Django — Celery 5.0.2 documentation;https://docs.celeryproject.org/en/stable/django/first-steps-with-django.html;Django
+Top 27 Python Django Project Ideas - Master Web Development with Python - DataFlair;https://data-flair.training/blogs/django-project-ideas/amp/;Django
