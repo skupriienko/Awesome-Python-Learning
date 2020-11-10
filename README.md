@@ -1,4 +1,4 @@
-# Awesome-Python-Learning v.1.1.0
+# Awesome-Python-Learning v.1.2.0
 ![Awesome Python Learning](Awesome_Python_Learning.png)
 
 ## Full list of links
