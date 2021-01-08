@@ -386,6 +386,8 @@ Python Learning Library
 
 - [[Intro to Hadoop and MapReduce]](https://www.udacity.com/course/intro-to-hadoop-and-mapreduce--ud617)
 
+- [[Python Tutorial for Beginners]](https://intellipaat.com/blog/tutorial/python-tutorial/)
+
 - [[Intro to Inferential Statistics]](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
 
 - [[Intro to Progressive Web Apps]](https://www.udacity.com/course/intro-to-progressive-web-apps--ud811)
