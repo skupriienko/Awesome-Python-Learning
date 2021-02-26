@@ -67,6 +67,7 @@ Python Learning Library
 - [[Как успешно пройти любое техническое собеседование]](https://proglib.io/p/programming-interview-success/)
 
 - [[Работа]](https://rabota.ua/)
+- [[Data Structure Interview Questions](https://www.interviewbit.com/data-structure-interview-questions/)
 
 ## **Programming (learning)**
 
