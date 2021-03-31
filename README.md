@@ -1195,6 +1195,8 @@ Python Learning Library
 
 - [[Tutorial 2 - Making it interesting --- BeeWare 0.3.0 documentation]](https://docs.beeware.org/en/latest/tutorial/tutorial-2.html)
 
+- [[Learn programming with curated Python projects \| DevProjects by Codementor]](https://www.codementor.io/python-projects)
+
 ### **Puzzles**
 
 - [[About - Project Euler]](https://projecteuler.net/index.php)
