@@ -2,7 +2,7 @@
 ![Awesome Python Learning](Awesome_Python_Learning.png)
 
 ## Full list of links
-See full list with categories in [Awesome_Python_Learning.csv](Awesome_Python_Learning.csv)
+See full list with categories in [Awesome_Python_Learning.csv](Awesome_Python_Learning.csv) - 1520 links!
 
 Python Learning Library
 
