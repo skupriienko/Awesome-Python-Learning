@@ -586,6 +586,8 @@ Python Learning Library
 
 - [[Python Tutorials - YouTube]](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
 
+- [[Python tutorial - Scaler topics]](https://www.scaler.com/topics/python/)
+
 - [[Python Variables]](https://www.w3schools.com/python/python_variables.asp)
 
 - [[Python: Object Oriented Programming \| Udemy]](https://www.udemy.com/course/python-object-oriented-programming/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-_XEuwOZ_8ATanV5IEXa0Cw)
