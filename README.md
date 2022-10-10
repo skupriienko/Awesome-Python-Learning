@@ -486,6 +486,8 @@ Python Learning Library
 
 - [[Learn Serverless and Functions/FaaS Technologies using Interactive Browser-Based Labs \| Katacoda]](https://www.katacoda.com/courses/serverless)
 
+- [[Learn Python Programming in Detail | Scaler Topics]](https://www.scaler.com/topics/python/)
+
 - [[Learn SQL \| Codecademy]](https://www.codecademy.com/learn/learn-sql)
 
 - [[Learn to Code with Interactive Tutorials \| Scrimba]](https://scrimba.com/)
