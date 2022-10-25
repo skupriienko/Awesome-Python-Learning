@@ -488,6 +488,8 @@ Python Learning Library
 
 - [[Learn SQL \| Codecademy]](https://www.codecademy.com/learn/learn-sql)
 
+- [Learn SQL in Detail](https://www.scaler.com/topics/sql/)
+
 - [[Learn to Code with Interactive Tutorials \| Scrimba]](https://scrimba.com/)
 
 - [[Learn to Program: Crafting Quality Code --- главная \| Coursera]](https://www.coursera.org/learn/program-code/home/welcome)
