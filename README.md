@@ -78,6 +78,8 @@ Python Learning Library
 
 - [[Data Science Career Guide -- Dataquest]](https://www.dataquest.io/blog/data-science-career-guide/?utm_source=Iterable&utm_medium=email&utm_campaign=onboarding_7)
 
+- [[Data Structures and Algorithms Tutorial]](https://www.scaler.com/topics/data-structures/)
+
 - [[Data Science Career Tips Archives -- Dataquest]](https://www.dataquest.io/blog/topics/data-science-career-tips/?utm_source=Iterable&utm_medium=email&utm_campaign=onboarding_7)
 
 - [[Full-Stack JavaScript in Six Weeks: A Curriculum Guide]](https://medium.com/ladies-storm-hackathons/follow-this-curriculum-to-learn-full-stack-javascript-in-six-weeks-c0f100426902)
