@@ -1221,6 +1221,8 @@ Python Learning Library
 
 - [[\| fastai]](https://docs.fast.ai/)
 
+- [[Explore kandi - Jumpstart your Application Development]](https://kandi.openweaver.com/)
+
 - [[10 Best CSS Frameworks For Frontend Developers in 2020 - GeeksforGeeks]](https://www.geeksforgeeks.org/10-best-css-frameworks-for-frontend-developers-in-2020/)
 
 - [[10 лучших материалов для изучения Django]](https://proglib.io/p/django-sources/)
