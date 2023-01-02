@@ -484,6 +484,8 @@ Python Learning Library
 
 - [[Learn Python: Build a Virtual Assistant \| Udemy]](https://www.udemy.com/course/learn-python-build-a-virtual-assistant-in-python/learn/lecture/5078926)
 
+- [[Learn Python In Detail | Scaler Topics]](https://www.scaler.com/topics/python/)
+
 - [[Learn Serverless and Functions/FaaS Technologies using Interactive Browser-Based Labs \| Katacoda]](https://www.katacoda.com/courses/serverless)
 
 - [[Learn SQL \| Codecademy]](https://www.codecademy.com/learn/learn-sql)
